@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.3...v0.1.4) (2025-08-30)
+
+
+### Bug Fixes
+
+* fixing install ([57fee5d](https://github.com/guilhermehbueno/git-pitch/commit/57fee5d91516f37447598bccae50ade183607219))
+
 ## [0.1.3](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.2...v0.1.3) (2025-08-30)
 
 
