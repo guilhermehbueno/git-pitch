@@ -1,8 +1,16 @@
 name: goreleaser
 on:
+  # 1) Fire when a release is created or published by release-please
   release:
-    types: [created, published]   # run after release-please makes the release
-  workflow_dispatch: {}           # allow manual run for testing
+    types: [created, published, prereleased, edited]
+
+  # 2) Fallback: when the release-please workflow finishes successfully
+  workflow_run:
+    workflows: ["release-please"]
+    types: [completed]
+
+  # 3) Manual trigger (keeps your current escape hatch)
+  workflow_dispatch: {}
 
 permissions:
   contents: write                 # needed to upload assets
