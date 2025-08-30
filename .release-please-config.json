@@ -1,0 +1,7 @@
+{
+  "release-type": "go",
+  "packages": {
+    ".": { "package-name": "git-pitch" }
+  },
+  "initial-version": "0.1.0"
+}
