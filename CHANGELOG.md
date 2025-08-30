@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.5...v0.1.6) (2025-08-30)
+
+
+### Bug Fixes
+
+* update URL filter in install script for better compatibility ([e8ee420](https://github.com/guilhermehbueno/git-pitch/commit/e8ee420f1733807d00133d15f74530367d340c31))
+
 ## [0.1.5](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.4...v0.1.5) (2025-08-30)
 
 
