@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.6...v0.2.0) (2025-08-30)
+
+
+### Features
+
+* enhance goreleaser workflow triggers for better automation ([30bc435](https://github.com/guilhermehbueno/git-pitch/commit/30bc435a21f6b05079ebcea0eac80010c0ede0da))
+
 ## [0.1.6](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.5...v0.1.6) (2025-08-30)
 
 
