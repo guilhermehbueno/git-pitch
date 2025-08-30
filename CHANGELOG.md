@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.4...v0.1.5) (2025-08-30)
+
+
+### Bug Fixes
+
+* update greeting message punctuation in main function ([e60fa8c](https://github.com/guilhermehbueno/git-pitch/commit/e60fa8ccf14482da5d9a6089f5900436d74968ed))
+
 ## [0.1.4](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.3...v0.1.4) (2025-08-30)
 
 
