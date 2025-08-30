@@ -16,7 +16,7 @@ ASSET_URL=$(
   curl -s "https://api.github.com/repos/${REPO}/releases/latest" |
     grep -Eo '"browser_download_url": *"[^"]+"' |
     cut -d'"' -f4 |
-    grep "${OS}_${ARCH}\.(tar\.gz|zip)$" || true
+    grep "${OS}" | grep "${ARCH}" || true
 )
 
 if [[ -z "${ASSET_URL}" ]]; then
