@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.3.0...v0.4.0) (2025-08-31)
+
+
+### Features
+
+* add AI-powered CLI commands and server management tools ([4df62dc](https://github.com/guilhermehbueno/git-pitch/commit/4df62dcf1d196f7249fd3e7b92a60236861f1a53))
+
 ## [0.3.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.2.0...v0.3.0) (2025-08-31)
 
 
