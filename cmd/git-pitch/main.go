@@ -1,7 +1,12 @@
+// cmd/git-pitch/main.go
 package main
 
-import "fmt"
+import "github.com/guilhermehbueno/git-pitch/cmd" // adjust module path
 
-func main() {
-	fmt.Println("Hello, Go! - Updated!!!???")
-}
+var (
+  version = "dev"
+  commit  = "none"
+  date    = "unknown"
+)
+
+func main() { cmd.Execute(version, commit, date) }
