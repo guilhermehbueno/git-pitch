@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.4.0...v0.5.0) (2025-08-31)
+
+
+### Features
+
+* implement ViperConfigService for config management ([09b393b](https://github.com/guilhermehbueno/git-pitch/commit/09b393bc53a1b8ae5a6d348b4ef086b2e59c0be1))
+
 ## [0.4.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.3.0...v0.4.0) (2025-08-31)
 
 
