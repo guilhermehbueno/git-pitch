@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.2.0...v0.3.0) (2025-08-31)
+
+
+### Features
+
+* add initial project setup with main.go and dependencies ([2ca423b](https://github.com/guilhermehbueno/git-pitch/commit/2ca423b70790520232ff978eb98676587bdc1914))
+
 ## [0.2.0](https://github.com/guilhermehbueno/git-pitch/compare/v0.1.6...v0.2.0) (2025-08-30)
 
 
