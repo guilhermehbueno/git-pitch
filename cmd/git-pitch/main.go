@@ -1,12 +1,14 @@
 // cmd/git-pitch/main.go
 package main
 
-import "github.com/guilhermehbueno/git-pitch/cmd" // adjust module path
+import "git-pitch/cmd"
 
 var (
-  version = "dev"
-  commit  = "none"
-  date    = "unknown"
+	version = "dev"
+	commit  = "none"
+	date    = "unknown"
 )
 
-func main() { cmd.Execute(version, commit, date) }
+func main() {
+	cmd.Execute(version, commit, date)
+}
